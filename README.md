@@ -128,3 +128,24 @@ ROI forecasting
 City-wise demand trends
 
 Deployment on Streamlit Cloud
+Here is the screenshot :
+## 📸 Streamlit App Screenshots
+
+### Dashboard
+![Dashboard](screenshot/streamlit_app_1.png)
+
+### Dataset View
+![Dataset](screenshot/streamlit_app_2.png)
+
+### EDA Visualizations
+![EDA](screenshot/streamlit_app_3.png)
+
+### Prediction Interface
+![Prediction](screenshot/streamlit_app_4.png)
+
+### Results
+![Results](screenshot/streamlit_app_5.png)
+
+### Summary
+![Summary](screenshot/streamlit_app_6.png)
+
